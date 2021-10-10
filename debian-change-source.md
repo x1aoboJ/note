@@ -10,3 +10,4 @@ cd /etc/apt/
 # 拷贝配置文件
 cp source.list source.list.bak
 ```
+## 编辑软件源配置文件
